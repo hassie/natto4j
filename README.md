@@ -1,3 +1,3 @@
 # natto4j
-# CAUTION : It does'nt work fine!!!
+# CAUTION : It doesn't work fine!!!
 A Tasty Java Binding with MeCab
